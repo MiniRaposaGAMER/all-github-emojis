@@ -8,14 +8,13 @@ all GITHUB EXCLUSIVE emoticons
 :suspect: `:suspect:`
 :finnadie: `:finnadie:`
 :hurtrealbad: `:hurtrealbad:`
-:rage3: `:rage3:`
 
+:rage3: `:rage3:`
 :goberserk: `:goberserk:`
 :shipit: `:shipit:`
 :rage1: `:rage1:`
 :rage4: `:rage4:`
 :octocat: `:octocat:`
-:trollface: `:trollface:`
 
 :atom: `:atom:`
 :basecampy: `:basecampy:`
@@ -23,5 +22,7 @@ all GITHUB EXCLUSIVE emoticons
 :neckbeard: `:neckbeard:`
 :basecamp: `:basecamp:`
 :bowtie: `:bowtie:`
+
+:trollface: `:trollface:`
 
 #just it
