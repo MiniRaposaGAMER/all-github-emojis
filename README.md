@@ -15,6 +15,7 @@ all GITHUB EXCLUSIVE emoticons
 :rage4: `:rage4:`
 :octocat: `:octocat:`
 :trollface: `:trollface:`
+
 :atom: `:atom:`
 :basecampy: `:basecampy:`
 :electron: `:electron:`
