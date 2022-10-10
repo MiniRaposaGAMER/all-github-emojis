@@ -9,6 +9,7 @@ all GITHUB EXCLUSIVE emoticons
 :finnadie: `:finnadie:`
 :hurtrealbad: `:hurtrealbad:`
 :rage3: `:rage3:`
+
 :goberserk: `:goberserk:`
 :shipit: `:shipit:`
 :rage1: `:rage1:`
@@ -22,3 +23,5 @@ all GITHUB EXCLUSIVE emoticons
 :neckbeard: `:neckbeard:`
 :basecamp: `:basecamp:`
 :bowtie: `:bowtie:`
+
+#just it
